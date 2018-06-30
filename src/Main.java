@@ -18,5 +18,9 @@ public class Main {
         FizzBuzzExercise fizzBuzzExercise = new FizzBuzzExercise();
         fizzBuzzExercise.FizzBuzzExercise(16);
 
+        System.out.println("----------------------------------");
+        PrimeFactorsExercise primeFactorsExercise = new PrimeFactorsExercise();
+        primeFactorsExercise.PrimeFactorsExercise(30);
+
     }
 }
